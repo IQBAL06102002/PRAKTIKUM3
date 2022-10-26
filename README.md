@@ -18,3 +18,5 @@
 ![Gambar4](4.png)
 # HASIL MENGHITUNG LUAS DAN KELILING LINGKARAN
 ![Gambar5](5.png)
+# FLOWCHART
+![Gambar6](6.png)
